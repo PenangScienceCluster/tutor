@@ -74,6 +74,18 @@ Documentation
 
 Extensive documentation is available online: https://docs.tutor.overhang.io/
 
+The notes here are local to the changes made for the Penang Science Cluster's deployment of Tutor.
+
+To start Tutor
+
+`tutor local start`
+
+To stop Tutor
+
+`tutor local stop`
+
+The `config.yml` file has been edited to run with HTTPS and SMTP activated.
+
 Is there a problem?
 -------------------
 
